@@ -1,0 +1,7 @@
+{
+  "name": "Luz ✝️",
+  "description": "Aplicación cristiana centrada en Dios y el estudio bíblico: versículo del día, IA bíblica, quiz, memorización, camino bíblico y oración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
